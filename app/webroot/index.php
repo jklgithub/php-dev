@@ -18,7 +18,7 @@
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
 
-include_once 'check_host.php';
+// include_once 'check_host.php';
 /**
  * Use the DS to separate the directories in other defines
  */
