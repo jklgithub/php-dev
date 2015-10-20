@@ -19,7 +19,7 @@
  */
 
 // include_once 'check_host.php';
-define('SERVERNAME', 	'DEV');
+define('SERVERNAME', 	'dev');
 /**
  * Use the DS to separate the directories in other defines
  */
