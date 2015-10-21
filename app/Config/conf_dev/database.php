@@ -4,7 +4,7 @@ class DATABASE_CONFIG {
 	public $default = array(
 		'datasource' 	=> 'Database/Mysql',
 		'persistent' 	=> false,
-		'host' 			=> '23.254.131.67',
+		'host' 			=> '127.0.0.1',
 		'login' 		=> 'dev-user',
 		'password' 		=> "asdf&**safd034&%",
 		'database' 		=> 'dev',
