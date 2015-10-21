@@ -12,7 +12,8 @@ class PiController extends AppController {
 			'ua'		=> empty($_SERVER['HTTP_USER_AGENT']) ? '' : $_SERVER['HTTP_USER_AGENT'],
 			'remark'	=> empty($this->request->query['remark']) ? '' : $this->request->query['remark'],
 		));
-		print_r($r);
+// 		print_r($r);
+		echo 1;
 		exit;
 	}
 }
